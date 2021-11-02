@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fabrica id="0">
+              
+    
+    
+    <departamento id="1">
+                            
+        
+        
+        <nombre_departamento>Cocinar caramelos</nombre_departamento>
+                            
+        
+        
+        <gnomos>
+                                          
+            
+            
+            <gnomo id="g01">
+                                                        
+                
+                
+                <nombre>Bastoncio</nombre>
+                                                        
+                
+                
+                <color>rojo</color>
+                                                        
+                
+                
+                <iq>4</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g02">
+                                                        
+                
+                
+                <nombre>Epistoceles</nombre>
+                                                        
+                
+                
+                <color>morado</color>
+                                                        
+                
+                
+                <iq>150</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g03">
+                                                        
+                
+                
+                <nombre>Uriel</nombre>
+                                                        
+                
+                
+                <color>blanco</color>
+                                                        
+                
+                
+                <iq>90</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g04">
+                                                        
+                
+                
+                <nombre>Rudolfnt</nombre>
+                                                        
+                
+                
+                <color>marron</color>
+                                                        
+                
+                
+                <iq>20</iq>
+                                                      
+            
+            
+            </gnomo>
+                                        
+        
+        
+        </gnomos>
+                          
+    
+    
+    </departamento>
+              
+    
+    
+    <departamento id="2">
+                            
+        
+        
+        <nombre_departamento>Envolver caramelos</nombre_departamento>
+                            
+        
+        
+        <gnomos>
+                                          
+            
+            
+            <gnomo id="g05">
+                                                        
+                
+                
+                <nombre>Pleistoceno</nombre>
+                                                        
+                
+                
+                <color>verde</color>
+                                                        
+                
+                
+                <iq>60</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g06">
+                                                        
+                
+                
+                <nombre>Prudencio</nombre>
+                                                        
+                
+                
+                <color>morado</color>
+                                                        
+                
+                
+                <iq>110</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g07">
+                                                        
+                
+                
+                <nombre>Froilan</nombre>
+                                                        
+                
+                
+                <color>blanco</color>
+                                                        
+                
+                
+                <iq>60</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g08">
+                                                        
+                
+                
+                <nombre>Eneko</nombre>
+                                                        
+                
+                
+                <color>negro</color>
+                                                        
+                
+                
+                <iq>100</iq>
+                                                      
+            
+            
+            </gnomo>
+                                        
+        
+        
+        </gnomos>
+                          
+    
+    
+    </departamento>
+              
+    
+    
+    <departamento id="3">
+                            
+        
+        
+        <nombre_departamento>Lamer caramelos</nombre_departamento>
+                            
+        
+        
+        <gnomos>
+                                          
+            
+            
+            <gnomo id="g09">
+                                                        
+                
+                
+                <nombre>Glandula</nombre>
+                                                        
+                
+                
+                <color>rosa</color>
+                                                        
+                
+                
+                <iq>30</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g10">
+                                                        
+                
+                
+                <nombre>Suquencio</nombre>
+                                                        
+                
+                
+                <color>rosa</color>
+                                                        
+                
+                
+                <iq>40</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g11">
+                                                        
+                
+                
+                <nombre>Ramon</nombre>
+                                                        
+                
+                
+                <color>rosa</color>
+                                                        
+                
+                
+                <iq>55</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g12">
+                                                        
+                
+                
+                <nombre>Jake</nombre>
+                                                        
+                
+                
+                <color>rosa</color>
+                                                        
+                
+                
+                <iq>32</iq>
+                                                      
+            
+            
+            </gnomo>
+                                        
+        
+        
+        </gnomos>
+                          
+    
+    
+    </departamento>
+              
+    
+    
+    <departamento id="4">
+                            
+        
+        
+        <nombre_departamento>Contar caramelos</nombre_departamento>
+                            
+        
+        
+        <gnomos>
+                                          
+            
+            
+            <gnomo id="g13">
+                                                        
+                
+                
+                <nombre>Piskacho</nombre>
+                                                        
+                
+                
+                <color>verde</color>
+                                                        
+                
+                
+                <iq>160</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g14">
+                                                        
+                
+                
+                <nombre>Otaco</nombre>
+                                                        
+                
+                
+                <color>rojo</color>
+                                                        
+                
+                
+                <iq>140</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g15">
+                                                        
+                
+                
+                <nombre>Contalio</nombre>
+                                                        
+                
+                
+                <color>amarillo</color>
+                                                        
+                
+                
+                <iq>135</iq>
+                                                      
+            
+            
+            </gnomo>
+                                          
+            
+            
+            <gnomo id="g16">
+                                                        
+                
+                
+                <nombre>Ulises</nombre>
+                                                        
+                
+                
+                <color>azul</color>
+                                                        
+                
+                
+                <iq>172</iq>
+                                                      
+            
+            
+            </gnomo>
+                                        
+        
+        
+        </gnomos>
+                          
+    
+    
+    </departamento>
+
+</fabrica>
